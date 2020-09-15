@@ -11,7 +11,7 @@
     "statusBar.noFolderBackground": "#333333",
     "statusBar.debuggingBackground": "#263238"
   },
-  "editor.fontSize": 16,
+  "editor.fontSize": 12,
 
   "css.validate": false,
   "scss.validate": false,
